@@ -1,0 +1,3 @@
+[submodule "shared/lab-common"]
+	path = shared/lab-common
+	url = https://github.com/yuichi143/lab-common.git
